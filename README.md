@@ -62,4 +62,8 @@ curl --include --header "Authorization:Bearer **********" --request GET 'https:/
 ]}}
 ~~~~
 
+
+#### Not: SSL sertifikası problemleri için https://apiportal.yapikredi.com.tr/documentation 4. madde sonunda githubda bulunan code-yapikredi/api projesine göz atın.
+
+
 Faydalı olması dileğiyle .. <Murat B.>
